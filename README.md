@@ -20,13 +20,9 @@ Live Server
 Prettier - Code formatter
 Rainbow CSV
 
-<!-- *Below is the terminal log used to this point for reference -->
 
-Ashley@YOG-SOTHOTH MINGW64 ~/Documents/codex-projects/week1-setup-ashley-flynn (main)
-$ git add
-Nothing specified, nothing added.
-hint: Maybe you wanted to say 'git add .'?
-hint: Disable this message with "git config set advice.addEmptyPathspec false"
+
+<!-- *Below is the terminal log used to this point for reference -->
 
 Ashley@YOG-SOTHOTH MINGW64 ~/Documents/codex-projects/week1-setup-ashley-flynn (main)
 $ git add .
@@ -57,13 +53,7 @@ To https://github.com/codex-assignments/week1-setup-ashley-flynn.git
 848f39b..9d7bcab main -> main
 
 Ashley@YOG-SOTHOTH MINGW64 ~/Documents/codex-projects/week1-setup-ashley-flynn (main)
-$ git add index.html
-fatal: pathspec 'index.html' did not match any files
-
-Ashley@YOG-SOTHOTH MINGW64 ~/Documents/codex-projects/week1-setup-ashley-flynn (main)
 $ > index.html
 
-Ashley@YOG-SOTHOTH MINGW64 ~/Documents/codex-projects/week1-setup-ashley-flynn (main)
-$
 
 <!-- *terminal log ends -->

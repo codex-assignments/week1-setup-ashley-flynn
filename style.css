@@ -16,31 +16,47 @@ ul {
     padding-right: 20px;
     }
 
-    h1 {
-        text-align: center;
-    }
 
-    h2 {
-        text-align: center;
-        
-    }
+a {
+    text-decoration-line: none;
+}
 
-    .wrapper {
-        display: flex;
-        align-items: center;
+a:hover {
+    text-decoration-line: underline;
+    text-underline-offset: 10px;
 
-    }
+}
 
-    img {
-        width: 300px;
-        margin: 30px;
+.open {
+    font-weight: bold;
+}
 
-    }
 
-    p {
-        margin: 30px;
-    }
+h1 {
+    text-align: center;
+}
 
-    footer > p {
-        text-align: center;
-    }
+h2 {
+    text-align: center;
+    
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+
+}
+
+img {
+    width: 300px;
+    margin: 30px;
+
+}
+
+p {
+    margin: 30px;
+}
+
+footer > p {
+    text-align: center;
+}
