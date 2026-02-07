@@ -20,7 +20,11 @@ Live Server
 Prettier - Code formatter
 Rainbow CSV
 
+Published website through github --> setting --> pages --> Deploy from a branch, choose "main" --> Save
 
+To see the url to your website on the github repository about section, click the About section gear, and check use github url
+
+![alt text](image.png)
 
 <!-- *Below is the terminal log used to this point for reference -->
 
